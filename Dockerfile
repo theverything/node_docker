@@ -4,7 +4,7 @@
 #
 ##################################################
 
-FROM      theverything/ubuntu_14.04
+FROM      theverything/ubuntu_docker
 
 MAINTAINER Jeffreyhorn <j3ffhorn@gmail.com>
 
